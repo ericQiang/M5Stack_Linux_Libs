@@ -109,7 +109,7 @@ int main(void) {
 }
 ```
 
-[Go to LED documentation.](docs/led.md)
+[Go to LED documentation.](led.md)
 
 ### PWM
 
@@ -162,7 +162,7 @@ int main(void) {
 }
 ```
 
-[Go to PWM documentation.](docs/pwm.md)
+[Go to PWM documentation.](pwm.md)
 
 ### SPI
 
@@ -201,7 +201,7 @@ int main(void) {
 }
 ```
 
-[Go to SPI documentation.](docs/spi.md)
+[Go to SPI documentation.](spi.md)
 
 ### I2C
 
@@ -252,7 +252,7 @@ int main(void) {
 }
 ```
 
-[Go to I2C documentation.](docs/i2c.md)
+[Go to I2C documentation.](i2c.md)
 
 ### MMIO
 
@@ -319,7 +319,7 @@ int main(void) {
 }
 ```
 
-[Go to MMIO documentation.](docs/mmio.md)
+[Go to MMIO documentation.](mmio.md)
 
 ### Serial
 
@@ -366,7 +366,7 @@ int main(void) {
 }
 ```
 
-[Go to Serial documentation.](docs/serial.md)
+[Go to Serial documentation.](serial.md)
 
 ## Building c-periphery with CMake
 
