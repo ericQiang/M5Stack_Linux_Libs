@@ -60,7 +60,7 @@ int main(void) {
 }
 ```
 
-[Go to GPIO documentation.](docs/gpio.md)
+[Go to GPIO documentation.](gpio.md)
 
 ### LED
 
